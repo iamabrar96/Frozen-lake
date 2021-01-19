@@ -1,6 +1,6 @@
 # Frozen-lake
 The agent is trained  well enough to train and collect  the maximum number of rewards for each episode using the reinforecment learning concept.
-steps involved in setting up the frozen lake game.
+    steps involved in setting up the frozen lake game.
 import the libraries.
 create the environment by just calling gym.make() 
 create the Q table and initialize all the values to zeros(initially)
