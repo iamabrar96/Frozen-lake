@@ -7,3 +7,6 @@ create the Q table and initialize all the values to zeros(initially)
 initialize the Q-leraning parameter.
 for each episode reset the environment to initial state and for each time step within the ecah episode set the exploration rate threshold to a random number b/w 0 and 1.
 Based on the exploration or exploitation take the corresponding action,update the q table,transition to the next state and collect the rewards accordingly.
+
+
+Sanpshot of the Agent learning overtime to reach the goal 
