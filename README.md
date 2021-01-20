@@ -10,3 +10,6 @@ Based on the exploration or exploitation take the corresponding action,update th
 
 
 Sanpshot of the Agent learning overtime to reach the goal 
+
+![frozen lake](https://user-images.githubusercontent.com/68875720/105174375-c231ee80-5b22-11eb-9a04-0cd8badb9762.jpg)
+
